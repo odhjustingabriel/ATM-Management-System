@@ -1,5 +1,6 @@
 # ATM-Management-System
 Simple ATM Management System
+
 We start by declaring and initializing the variables option (to store the user's choice), balance (to store the user's account balance), and amount (to store the amount of money to be withdrawn or deposited).
 We then display the available options to the user using printf statements and a while loop that keeps running until the user chooses to exit the program.
 Inside the while loop, we use a switch statement to perform the appropriate action based on the user's choice.
